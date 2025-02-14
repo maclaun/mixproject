@@ -1,2 +1,3 @@
 # mixproject
-optional
+Temat: W trakcie
+Team: Solo
